@@ -82,7 +82,7 @@ app.delete("/posts/:id",(req,res)=>{
 })
 
 // app.get("/",(req,res) =>{
-//     res.send("Serving is working......");
+//     res.send("Serving is working.
 
 app.listen(port,() => {
     console.log(`listening to Port :${port}`);
